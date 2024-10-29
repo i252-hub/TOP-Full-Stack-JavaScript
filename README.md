@@ -1,13 +1,13 @@
 My Learning Journey in FullStack Development from The Odin Project.
 
-## Intermediate HTML and CSS
+# Intermediate HTML and CSS
 - Units
 - Advanced Selectors
 - Position
 - CSS Function
 - Properties
 
-## JavaScript
+# JavaScript
 ### Object Oriented Programming
 - Object and Object Constructors
 - Factory Functions and the Module Pattern
@@ -33,5 +33,13 @@ My Learning Journey in FullStack Development from The Odin Project.
 - Remotes & Changing History
 
 ## Test Driven Development
+
+# Advanced HTML and CSS
+
+# React
+
+# Databases
+
+# NodeJS
 
 
