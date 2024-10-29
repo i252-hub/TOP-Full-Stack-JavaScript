@@ -1,4 +1,4 @@
-* My Learning Journey in FullStack Development from The Odin Project. *
+_My Learning Journey in FullStack Development from The Odin Project._
 
 # Intermediate HTML and CSS
 - Units
